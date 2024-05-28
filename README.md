@@ -5,4 +5,7 @@ By analyzing the top 10 platforms by sales, video game companies can strategical
 
 
 vgsales 2.csv - This is the videogame dataset that I used.
+
+
+
 VideoGame Sales Dashboard.twb This is the final dashboard created from the data. 
